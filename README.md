@@ -5,7 +5,7 @@
 </br></br>
 <p>A simple quote generator that fetches data using api requests and shows them.</p>
 
-## Live Websitehttps:
+## Live Website
 https://quotegenerator-suhrid.netlify.app/
 
 ## Contributing
