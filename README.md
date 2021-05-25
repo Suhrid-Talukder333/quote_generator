@@ -5,6 +5,9 @@
 </br></br>
 <p>A simple quote generator that fetches data using api requests and shows them.</p>
 
+## Live Websitehttps:
+https://quotegenerator-suhrid.netlify.app/
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
